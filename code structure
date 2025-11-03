@@ -1,0 +1,7 @@
+calculatorproject/
+│
+├── main/
+│   └── CalculatorApp.java
+│
+└── operations/
+    └── Calculator.java
